@@ -91,7 +91,7 @@ function App(): React.JSX.Element {
           }}>
           <Section title="Step One">
             Edit <Text style={styles.highlight}>App.tsx</Text> to change this
-            Hi, Hafiz.
+            Hi, Hafiz. Wenak. khabar chnou ?
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
