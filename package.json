@@ -10,8 +10,11 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-firebase/analytics": "^22.2.0",
     "@react-native-firebase/app": "^22.2.0",
     "@react-native-firebase/database": "^22.2.0",
+    "@react-native-firebase/firestore": "^22.2.0",
+    "@react-navigation/native": "^7.1.10",
     "nativewind": "^4.1.23",
     "react": "19.0.0",
     "react-native": "0.79.2",
